@@ -6,5 +6,3 @@ In this repo I store notes from the course of [JavaScript Unit Testing - The Pra
 
 ![MasterHead](./head.png)
 ![MasterHead](./certificate.png)
-
-<!-- https://utfs.io/f/etzPSWYSlL8TTAFtDc6sBMYwVDX9iZcvoJ6b5j4Tt0F7ImP2 -->
